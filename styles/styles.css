@@ -5,6 +5,13 @@
     font-style: normal;
 }
 
+.navbar-brand {
+    font-family: 'Lostar';
+    src: url('fuentes/Lostar.ttf') format('truetype');   
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+}
 * {
     margin: 0;
     padding: 0;
@@ -65,11 +72,11 @@ nav a:hover {
 }
 
 header {
-    background: #0078d7;
     color: #fff;
     text-align: center;
+    margin: 30px auto;
     padding: 20px 10px;
-    box-shadow: 0 4px 8px rgba(0, 120, 215, 0.3);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
 main {
