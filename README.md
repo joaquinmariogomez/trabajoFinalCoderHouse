@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joaquin Mario Gomez</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-<h3 align="left">PROFE, NO LOGRE TERMINAR TODAS LAS CONSIGNAS DEL TP, LO VOY A SEGUIR ACTUALIZANDO, NO SE SI ME PODRIA HABILITAR LA REENTREGA, MUCHAS GRACIAS</h3>
+
 <p align="left">
 </p>
 
