@@ -1,0 +1,9 @@
+@use 'variables' as *;
+
+header {
+  background: $primary-color;
+  color: white;
+  text-align: center;
+  padding: 20px 10px;
+  box-shadow: 0 4px 8px rgba(0, 120, 215, 0.3);
+}

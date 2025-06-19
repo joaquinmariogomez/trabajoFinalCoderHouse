@@ -1,0 +1,13 @@
+@use 'variables' as *;
+
+.carousel {
+  max-width: 800px;
+  margin: 0 auto;
+
+  .carousel-item img {
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+}

@@ -1,0 +1,19 @@
+@use 'variables' as *;
+
+footer {
+  background-color: $dark-color;
+  border-top: 2px solid #444;
+  padding: 1rem 0;
+  color: white;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  img {
+    margin-top: 0.5rem;
+    transition: transform 0.3s ease;
+
+    &:hover {
+      transform: scale(1.2);
+    }
+  }
+}

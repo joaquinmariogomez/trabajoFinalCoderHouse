@@ -1,5 +1,9 @@
-$primary-color: #red
-
-body {
-    background-color: $primary-color
-}
+@use 'reset'; 
+@use 'variables'; 
+@use 'typography'; 
+@use 'header'; 
+@use 'nav'; 
+@use 'main'; 
+@use 'footer'; 
+@use 'carousel'; 
+@use 'newdrop';
