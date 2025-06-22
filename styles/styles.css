@@ -37,6 +37,12 @@ h3 {
   margin: 15px 0 10px;
 }
 
+@font-face {
+  font-family: "Lostar";
+  src: url("../Fuentes/lostar.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
 header {
   background: #0078d7;
   color: white;
