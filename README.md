@@ -57,25 +57,16 @@
   </a>
 </p>
 
----
-
-### 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-DE-GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Joaquin" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-DE-GITHUB&layout=compact&langs_count=6&theme=tokyonight" alt="Lenguajes más usados por Joaquin" />
-</p>
 
 ---
 
 ### 📫 Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-usuario-linkedin" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/tu-usuario-linkedin](https://www.linkedin.com/in/joaquin-mario-gomez-485786214/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="LinkedIn Joaquin Gomez" height="30" width="40" /></a>
-  <a href="mailto:tu-email@dominio.com" target="blank"><img align="center"
+  <a href="mailto:joaggomez@gmail.com" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
       alt="Email Joaquin Gomez" height="30" width="40" /></a>
 </p>
